@@ -1,0 +1,14 @@
+{
+  "name": "hubspot-custom-object-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "pug": "^3.0.3"
+  }
+}
